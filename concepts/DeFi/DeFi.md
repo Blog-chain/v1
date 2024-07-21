@@ -1,77 +1,31 @@
-[https://docs.compound.finance](https://docs.compound.finance/)
-
-[https://liquidcollective.io/liquid-staking/](https://liquidcollective.io/liquid-staking/)
-
-[https://www.coinbase.com/learn/crypto-basics/what-is-a-smart-contract](https://www.coinbase.com/learn/crypto-basics/what-is-a-smart-contract)
-
 # DeFi (Decentralized Finance)
+
+## DeFi의 장점
+
+- **금융 포용성**: 은행 계좌가 없는 사람들도 DeFi를 통해 금융 서비스에 접근할 수 있습니다. 범죄자들도 거래에 참여할 수 있다는 점에서 기존 도덕적 가치에 반하지만, Web3의 탈중앙화 이념을 생각한다면 이는 적합한 방향성입니다.
+
+## DeFi의 단점
+
+- **높은 변동성**: DeFi 자산은 높은 변동성을 가지고 있어, 투자 위험이 높습니다.
+
+## 논의
+
+- **거래 비용과 속도**
+
+  - DeFi (Decentralized Finance)의 거래 비용과 속도는 네트워크의 혼잡 상태, 사용하는 블록체인의 종류, 거래의 복잡성 등에 따라 크게 달라질 수 있습니다.
+
+  - 이더리움 네트워크에서는 "가스 비용"이라고 불리는 거래 수수료가 있으며, 네트워크가 혼잡할 때는 이 비용이 상당히 높아질 수 있습니다. 따라서, 특정 시점에 따라서는 DeFi 거래 비용이 전통적인 금융 시스템의 거래 비용보다 높을 수도 있습니다.
+
+  - 블록체인 네트워크마다 블록이 생성되는 시간이 다릅니다. 예를 들어, 비트코인의 경우 약 10분, 이더리움은 약 15초가 걸립니다. 이는 거래가 최종적으로 승인되기까지의 시간을 의미합니다.
+  - 일부 블록체인은 레이어 2 솔루션(예: 라이트닝 네트워크, 옵티미스틱 롤업)과 같은 스케일링 기술을 도입하여 거래 속도를 개선하고 있습니다. 이러한 기술은 거래 처리 속도를 크게 향상시킬 수 있지만, 모든 블록체인 또는 모든 거래에서 사용 가능한 것도 아니고, 진입 장벽이 높습니다.
+
+  - 특히, 대한민국과 같이 인프라가 잘 구축된 국가에서는 거래 비용과 속도의 측면에서는 아직까지 전통 금융 서비스가 월등히 앞서는 것이 사실입니다. 이는 DeFi의 경쟁력 고취를 위한 앞으로의 개선 방향성을 암시합니다.
+
+- **보안 문제**
+  - 블록체인의 특징으로 인해 모든 것들이 투명하게 공개됩니다. 계약에 명시된 방식 이외의 방식으로 자산이 변동되는 일은 절대 없습니다.
+  - 그러나 오히려 이 부분이 시장으로의 심리적 장벽이 되는 경우도 있습니다. 혹여나 계약에 취약점이 존재하여 사고가 발생하더라도, 이에 대해 책임을 지는 중앙화된 기관 또는 단체는 일반적으로 존재하지 않습니다. (국가 규제 상황에 따라 달라질 수 있습니다.)
+
+### Reference
 
 - [https://ethereum.org/en/defi/#what-is-defi](https://ethereum.org/en/defi/#what-is-defi)
 - [https://en.wikipedia.org/wiki/Decentralized_finance](https://en.wikipedia.org/wiki/Decentralized_finance)
-
-# TradFi (Traditional Finance)
-
-# CEX (Centralized Exchange)
-
-# DEX (Decentralized Exchange)
-
-- [https://chain.link/education-hub/what-is-decentralized-exchange-dex](https://chain.link/education-hub/what-is-decentralized-exchange-dex)
-
-# [Terms: AMM](https://www.notion.so/Terms-AMM-55a1f336f1be481483339c8f01dc4f6d?pvs=21)
-
-# Liquidity Pool
-
-- [https://bitpay.com/blog/liquidity-pools-explained/](https://bitpay.com/blog/liquidity-pools-explained/)
-
-# Yield Farming
-
-- [https://www.coinbase.com/learn/your-crypto/what-is-yield-farming-and-how-does-it-work](https://www.coinbase.com/learn/your-crypto/what-is-yield-farming-and-how-does-it-work)
-
-# Uniswap V1 / V2 / V3
-
-- V1
-- V2/V3: CPMM
-
-# Compound
-
-- an EVM compatible protocol that enables supplying of crypto assets as collateral in order to borrow the *base asset*. Accounts can also earn interest by supplying the base asset to the protocol.
-- The initial deployment of Compound III is on Ethereum and the base asset is USDC.
-- [](https://docs.compound.finance/)[https://docs.compound.finance](https://docs.compound.finance)
-- A platform that uses smart contracts to let investors earn interest and borrowers to instantly get a loan without the need for a bank in the middle.
-- [https://www.coinbase.com/learn/crypto-basics/what-is-a-smart-contract](https://www.coinbase.com/learn/crypto-basics/what-is-a-smart-contract)
-
-# Lending Protocol
-
-- [https://blog.1inch.io/lending-protocols-features-indicators-and-dynamics/](https://blog.1inch.io/lending-protocols-features-indicators-and-dynamics/)
-
-# Overcollateralization
-
-- [https://www.investopedia.com/terms/o/overcollateralization.asp](https://www.investopedia.com/terms/o/overcollateralization.asp)
-
-# LTV (Loan-to-Value)
-
-- [https://en.wikipedia.org/wiki/Loan-to-value_ratio](https://en.wikipedia.org/wiki/Loan-to-value_ratio)
-
-# Oracle
-
-- [https://chain.link/education/blockchain-oracles](https://chain.link/education/blockchain-oracles)
-
-# Yield-Bearing Token
-
-- [https://academy.stakedao.org/what-are-yield-bearing-tokens/](https://academy.stakedao.org/what-are-yield-bearing-tokens/)
-
-# Liquid Staking
-
-- a rapidly growing solution for locking up a user's tokens and contributing to the security of proof of stake blockchains
-- a software solution that enables users to stake directly on a proof of stake network such as Ethereum, **with a liquid staking token (LST)** programmatically minted by the protocol providing access to liquidity while the user stakes.
-- In liquid staking, token holders stake their token and receive a receipt token, called a liquid staking token (LST), to evidence ownership of their staked token.
-- The LST can be transferred, stored, traded, and utilized in DeFi or supported dapps.
-- [https://liquidcollective.io/liquid-staking/](https://liquidcollective.io/liquid-staking/)
-
-# Restaking
-
-- [https://www.coindesk.com/learn/restaking-101-what-are-restaking-and-liquid-restaking/](https://www.coindesk.com/learn/restaking-101-what-are-restaking-and-liquid-restaking/)
-
-# TVL (Total Value Locked)
-
-- [https://m.upbitcare.com/academy/education/coin/282](https://m.upbitcare.com/academy/education/coin/282)
