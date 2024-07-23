@@ -1,4 +1,3 @@
-
 ---
 title: Mainnet
 description: 블록체인에서 메인넷(Mainnet)의 개념, 역할, 및 중요성을 다룹니다.
@@ -49,7 +48,6 @@ Mainnet은 새로운 기능이나 스마트 계약을 실제 환경에서 테스
 - [Mainnet 설명](https://www.investopedia.com/terms/m/mainnet.asp)
 - [Mainnet과 Testnet의 차이점](https://ethereum.org/en/developers/docs/networks/)
 - [Mainnet 의미](https://metaschool.so/articles/mainnet-meaning/)
-- https://metaschool.so/articles/mainnet-meaning/
 
 ### Related Keywords
 
