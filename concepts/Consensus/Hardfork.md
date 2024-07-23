@@ -1,3 +1,25 @@
+---
+title: Hard Fork
+description: 블록체인 네트워크에서 하드 포크(Hard Fork)의 개념, 역할, 및 중요성을 다룹니다.
+aliases: [hard fork, blockchain hard fork]
+tags: [technology, blockchain, hard fork, consensus]
+date: 2024-07-22
+---
+
+## Hard Fork
+
+### Summary
+
+`Hard Fork`는 블록체인 네트워크에서 기존 블록체인과 호환되지 않는 새로운 규칙으로 업데이트되는 과정을 의미합니다.
+
+### Description
+
+`Hard Fork`는 블록체인 네트워크에서 중요한 역할을 합니다. 이는 기존 블록체인과 호환되지 않는 새로운 규칙으로 업데이트되는 과정을 의미하며, 네트워크의 주요 변화나 업그레이드를 반영합니다. Hard Fork의 주요 특징은 다음과 같습니다:
+
+1. **불가역적 변경**: Hard Fork는 네트워크의 규칙을 영구적으로 변경합니다. 일단 실행되면, 새로운 규칙을 따르지 않는 노드는 네트워크에 참여할 수 없게 됩니다.
+2. **네트워크 분리**: Hard Fork는 기존 네트워크를 두 개의 별도의 체인으로 분리시킵니다. 이는 새로운 통화의 생성을 의미할 수도 있습니다.
+3. **커뮤니티 합의 필요**: 대부분의 경우, Hard Fork는 네트워크 참여자들 사이의 합의를 필요로 합니다. 그러나 합의에 도달하지 못하면 분열이 발생할 수 있습니다.
+
 # Hardfork란 무엇인가?
 
 Hardfork는 블록체인 네트워크의 프로토콜이나 규칙에 대한 근본적인 변경을 의미합니다. 이러한 변경은 기존의 규칙을 따르지 않는 새로운 블록을 유효하게 만들어, 네트워크를 두 개의 서로 다른 체인으로 분리시킵니다: 하나는 변경 전의 규칙을 따르는 체인이고, 다른 하나는 새로운 규칙을 따르는 체인입니다.
@@ -19,4 +41,19 @@ Hardfork는 블록체인 네트워크의 프로토콜이나 규칙에 대한 근
 
 ### Tips
 
-- Ethereum의 The Merge는 기존 PoW 방식의 합의를 PoS로 전환한 Hardfork이다. 기존 방식을 유지하고 있는 체인은 [`ETHW`](https://coinmarketcap.com/currencies/ethereum-pow)로 남아있다.
+- Ethereum의 The Merge는 기존 PoW 방식의 합의를 PoS로 전환한 Hard Fork입니다. 기존 방식을 유지하고 있는 체인은 [`ETHW`](https://coinmarketcap.com/currencies/ethereum-pow)로 남아있습니다.
+
+### References
+
+- [Hard Fork 설명](https://en.wikipedia.org/wiki/Hard-Fork)
+- [Hard Fork의 작동 원리](https://ethereum.org/en/glossary/#hard-fork)
+- [Gemini의 Hard Fork 설명](https://www.gemini.com/cryptopedia/search?query=hard-fork)
+
+### Related Keywords
+
+- [[Consensus]]
+- [[Blockchain]]
+- [[Security]]
+- [[Upgrade]]
+- [[Ethereum 2.0]]
+- [[Constantinople]]
