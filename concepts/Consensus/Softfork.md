@@ -25,15 +25,10 @@ date: 2024-07-22
 - **비트코인의 세그윗(SegWit)**: 비트코인 네트워크에서 트랜잭션 형식을 개선하기 위해 Soft Fork를 사용했습니다. 이는 트랜잭션 처리 속도를 높이고, 블록 크기를 효율적으로 사용하는 데 도움을 주었습니다.
 - **이더리움의 Muir Glacier 업그레이드**: 이더리움 네트워크는 Ice Age 지연을 위해 Muir Glacier 업그레이드를 Soft Fork로 진행했습니다.
 
-### Tips
-
-- Soft Fork는 기존 네트워크와 호환되기 때문에, 기존 참여자들이 큰 변화를 겪지 않고 새로운 규칙을 따를 수 있습니다.
-
 ### References
 
 - [Soft Fork 설명](https://en.wikipedia.org/wiki/Soft-Fork)
 - [Soft Fork의 작동 원리](https://ethereum.org/en/glossary/#soft-fork)
-- [Gemini의 Soft Fork 설명](https://www.gemini.com/cryptopedia/search?query=soft-fork)
 
 ### Related Keywords
 
@@ -42,4 +37,3 @@ date: 2024-07-22
 - [[Security]]
 - [[Upgrade]]
 - [[SegWit]]
-- [[Muir Glacier]]

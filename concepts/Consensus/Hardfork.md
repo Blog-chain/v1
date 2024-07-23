@@ -37,7 +37,6 @@ date: 2024-07-22
 
 - [Hard Fork 설명](https://en.wikipedia.org/wiki/Hard-Fork)
 - [Hard Fork의 작동 원리](https://ethereum.org/en/glossary/#hard-fork)
-- [Gemini의 Hard Fork 설명](https://www.gemini.com/cryptopedia/search?query=hard-fork)
 
 ### Related Keywords
 

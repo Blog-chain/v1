@@ -14,7 +14,7 @@ date: 2024-07-22
 
 ### Description
 
-`Compound Interest`는 원금과 이전 기간의 이자에 대해 계산되는 이자로, 시간이 지남에 따라 이자액이 증가합니다. 복리 이자는 금융 상품에서 자주 사용되며, 장기 투자에 적합합니다.
+`Compound Interest`는 원금과 이전 기간의 이자에 대해 계산되는 이자로, 시간이 지남에 따라 이자액이 증가합니다. 복리 이자는 금융 상품에서 자주 사용되며, 장기 투자에 적합합니다. 이 개념은 지속적인 [[restaking]]을 통한 자산 증식 행태와 연관이 있을 수 있습니다.
 
 ### Compound Interest의 주요 요소
 
@@ -34,8 +34,6 @@ https://en.wikipedia.org/wiki/Interest#Compound_interest
 r is the simple annual rate of interest
 
 n is the frequency of applying interest
-
-- 이 개념은 지속적인 [[restaking]]을 통한 자산 증식 행태와 연관이 있을 수 있습니다.
 
 ### Compound Interest의 중요성
 

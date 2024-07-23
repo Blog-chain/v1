@@ -42,8 +42,6 @@ date: 2024-07-22
 ### References
 
 - [evm-playground](https://www.evm.codes/)
-  - [CREATE](https://www.evm.codes/playground?callValue=9&unit=Wei&codeType=Mnemonic&code=%27z0q0f9q9f0y4%20FFmslk3%200x63FFFFFFFF6000526004601CF3gvMSTORE~13~19gp%20%27~k%20z%2F%2F%20Createmnmccountjith%20yjeimnd%20v%5Cnqynolgg~pvCREATEm%20al%20codekvPUSH1j%20wg~0fpvvz%01fgjklmpqvyz~_)
-  - [CREATE2](https://www.evm.codes/playground?callValue=9&unit=Wei&codeType=Mnemonic&code=%27z0LjjVfannoYrecWQ_parameters%2C%20becausliYgenerates_addressjjVz9L~1j~9Vz0v4%20FFZskX3%200x63FFFFFFFF60005260046000F3NyMSTORE~2~13~19Nq%27~X%20zfWanZccounYQ%20y%5Cnv%20weiZnd%20qyCREATE2le%20k%20codejNNf%2F%2F%20C_%20thlsamlZ%20aYt%20XyPUSH1WreatlVqyyQwithN~0Lvnok%01LNQVWXYZ_fjklqvyz~_)
 - [ethereum/opcodes](https://ethereum.org/en/developers/docs/evm/opcodes/)
 - [jellopaper](https://jellopaper.org/evm/)
 - [opcodes/gas](https://github.com/wolflo/evm-opcodes/blob/main/gas.md)
